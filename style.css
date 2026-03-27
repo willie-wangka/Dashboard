@@ -150,18 +150,12 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #e2e8f0;
+  object-fit: cover;
 }
-
 .header-user span {
   font-weight: bold;
 }
-.header-user img {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background-color: #0ea5e9;
-}
+
 .card h3 {
   margin-bottom: 8px;
   color: #1e293b;
